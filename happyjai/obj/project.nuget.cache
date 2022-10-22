@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7s6lNVqrmO60iIRqStaFPeTEgxPybhIZq3f0qZ2GGigUIfdXX4UKmbELARWqLAa4Z58u2+okpomkogIifQbyAw==",
+  "success": true,
+  "projectFilePath": "D:\\tools\\AV bypass\\DLLsideloading\\happyjai\\happyjai.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\dllexport\\1.7.4\\dllexport.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}

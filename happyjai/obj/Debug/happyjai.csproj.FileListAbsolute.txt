@@ -1,0 +1,6 @@
+D:\tools\AV bypass\happyjai\happyjai\bin\Debug\happyjai.dll
+D:\tools\AV bypass\happyjai\happyjai\bin\Debug\happyjai.pdb
+D:\tools\AV bypass\happyjai\happyjai\obj\Debug\happyjai.csproj.AssemblyReference.cache
+D:\tools\AV bypass\happyjai\happyjai\obj\Debug\happyjai.csproj.CoreCompileInputs.cache
+D:\tools\AV bypass\happyjai\happyjai\obj\Debug\happyjai.dll
+D:\tools\AV bypass\happyjai\happyjai\obj\Debug\happyjai.pdb
