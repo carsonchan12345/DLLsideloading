@@ -39,6 +39,7 @@ cat xor_ru | python xor.py "P" > Rubeus.exe
 ## Credit
 May need to run DllExport.bat before compile.
 https://jackkuo.org/post/export_unmanaged_dll_from_csharp/
+https://github.com/3F/DllExport
 
 Netloader
 https://github.com/Flangvik/NetLoader

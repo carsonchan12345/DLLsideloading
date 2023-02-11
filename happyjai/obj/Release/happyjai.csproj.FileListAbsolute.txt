@@ -4,9 +4,9 @@ D:\tools\AV bypass\happyjai\happyjai\obj\Release\happyjai.csproj.CoreCompileInpu
 D:\tools\AV bypass\happyjai\happyjai\obj\Release\happyjai.dll
 D:\tools\AV bypass\happyjai\happyjai\obj\Release\happyjai.pdb
 D:\tools\AV bypass\happyjai\happyjai\obj\Release\happyjai.csproj.AssemblyReference.cache
-D:\tools\AV bypass\DLLsideloading\happyjai\bin\Release\happyjai.dll
-D:\tools\AV bypass\DLLsideloading\happyjai\bin\Release\happyjai.pdb
 D:\tools\AV bypass\DLLsideloading\happyjai\obj\Release\happyjai.csproj.AssemblyReference.cache
 D:\tools\AV bypass\DLLsideloading\happyjai\obj\Release\happyjai.csproj.CoreCompileInputs.cache
+D:\tools\AV bypass\DLLsideloading\happyjai\bin\Release\happyjai.dll
+D:\tools\AV bypass\DLLsideloading\happyjai\bin\Release\happyjai.pdb
 D:\tools\AV bypass\DLLsideloading\happyjai\obj\Release\happyjai.dll
 D:\tools\AV bypass\DLLsideloading\happyjai\obj\Release\happyjai.pdb
