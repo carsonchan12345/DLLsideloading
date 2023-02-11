@@ -1,5 +1,5 @@
 # Dism DLL Side Loader
-Combine Dism whitelisting and all side load netloader to load c# or .NET binary to bypass AV. 
+Combine Microsoft signed Dism and dll side load netloader to load c# or .NET binary to bypass AV. 
 Tested on 22-10-2022 with Cortex XDR and Windows Defender.
 
 ## Usage
@@ -34,7 +34,8 @@ cat Rubeus.exe | python xor.py "P" > xor_ru
 ```
 cat xor_ru | python xor.py "P" > Rubeus.exe
 ```
-
+## TODO
+Add AES encryption
 
 ## Credit
 May need to run DllExport.bat before compile.
